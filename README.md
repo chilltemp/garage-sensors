@@ -1,6 +1,8 @@
 # Garage Parking Sensors
 Why? Our garage doors are small.  The plan is to use sensors and a LED panel to show how centered the car is in relation to the door.
 
+:warning:	WARNING: I'm not an expert!  I learning as I go :fire:
+
 ## The Sensors
 ![Sensor layout](layout.png)
 * 2 - 4 sensors at the door
